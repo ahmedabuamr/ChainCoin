@@ -1,0 +1,46 @@
+.contest-lead {
+  margin-top: 80px;
+}
+.contest-heading h2 {
+  color: #143753;
+  font-size: 54px;
+}
+.contest-heading p {
+  color: #6f6f6f;
+  font-size: 18px;
+  margin-top: 15px;
+}
+.contest-content {
+  margin-top: 50px;
+}
+.contest-info {
+  margin-top: 30px;
+}
+.contest-info .date {
+  font-size: 15px;
+  color: #6f6f6f;
+}
+.contest-info h4 {
+  margin-top: 30px;
+  color: #143753;
+  font-size: 34px;
+}
+.contest-info p {
+  margin-top: 25px;
+  color: #6f6f6f;
+  font-size: 14px;
+  line-height: 1.2;
+}
+.btn-more {
+  background-color: #143753 !important;
+  border-color: #143753 !important;
+  color: #fff !important;
+  padding: 6px 30px !important;
+  margin-right: 10px;
+}
+.btn-now {
+  background-color: #f4ea0b !important;
+  border-color: #f4ea0b !important;
+  color: #000 !important;
+  padding: 6px 30px !important;
+}

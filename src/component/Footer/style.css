@@ -1,0 +1,44 @@
+.footer-lead {
+  margin-top: 95px;
+  margin-bottom: 40px;
+}
+.footer-left p {
+  color: #9dafbd;
+  font-size: 14px;
+  margin-top: 15px;
+}
+.footer-right {
+  margin-top: 60px;
+}
+.footer-right .active {
+  color: #143753;
+}
+
+.footer-right a {
+  text-decoration: none;
+  margin-right: 15px;
+  color: #6f6f6f;
+}
+.footer-right a:hover {
+  text-decoration: none;
+  color: #143753;
+}
+.list {
+  list-style: none;
+  margin-left: 142px;
+  margin-bottom: 30px;
+}
+.list li {
+  display: inline-block;
+  margin-right: 10px;
+}
+.list li i {
+  background: #9dafbd;
+  color: #fff;
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  border-radius: 50%;
+  cursor: pointer;
+}

@@ -1,0 +1,40 @@
+.pricing {
+  margin-top: 80px;
+}
+.pricing h2 {
+  color: #143753;
+  font-size: 54px;
+}
+.pricing .bg4 {
+  background: #f4ea0b;
+  height: 4px;
+  width: 87px;
+  margin: auto;
+}
+.pricNo {
+  padding: 0 5px;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: #f5eb12;
+  text-align: center;
+  margin-top: 281px;
+  border: 1px solid #143753;
+}
+.pricNo h3 {
+  font-size: 80px;
+  line-height: 200px;
+  color: #143753;
+}
+@media (max-width: 768px) {
+  .pricNo {
+    margin-top: 0 !important;
+    margin: auto;
+    width: 100px !important;
+    height: 100px !important;
+  }
+  .pricNo h3 {
+    font-size: 40px !important;
+    line-height: 100px !important;
+  }
+}

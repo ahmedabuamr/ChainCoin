@@ -1,0 +1,48 @@
+.about-me {
+  margin-top: 80px;
+}
+.bg1 {
+  background: #f4ea0b;
+  height: 4px;
+  width: 87px;
+}
+
+.about-me h2 {
+  font-size: 54px;
+  color: #143753;
+}
+.about-me p {
+  margin-top: 15px;
+  color: #6f6f6f;
+  font-size: 18px;
+}
+.about-title {
+  margin-top: 45px;
+}
+
+@media (max-width: 580px) {
+  .about .image {
+    margin-left: 0 !important;
+    height: 400px !important;
+    width: 400px !important;
+  }
+}
+
+.about-title img {
+  margin-top: 18px;
+}
+.about-title .media {
+  margin-top: 25px;
+}
+.about-title .media-body {
+  margin-left: 35px;
+}
+
+.media-body .media-heading {
+  color: #143753;
+  font-size: 34px;
+}
+.media-body span {
+  color: #6f6f6f;
+  font-size: 18px;
+}

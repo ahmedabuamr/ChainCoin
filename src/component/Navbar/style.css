@@ -1,0 +1,24 @@
+.navbar {
+  background-color: #0b0c22;
+}
+
+.navbar a {
+  color: #fff;
+  margin-right: 20px;
+}
+.navbar .active {
+  color: #f4ea0b;
+}
+.navbar a:hover {
+  text-decoration: none;
+  color: #f4ea0b;
+}
+.btn1 {
+  background-color: #f4ea0b !important;
+  color: #000 !important;
+  border-color: #f4ea0b !important;
+  padding: 6px 34px !important;
+  border-radius: 5px;
+  margin-left: 20px;
+  margin-top: -3px;
+}

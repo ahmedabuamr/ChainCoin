@@ -1,0 +1,81 @@
+.team-lead {
+  margin-top: 80px;
+}
+
+.caption {
+  top: 25px;
+}
+.caption h3 {
+  font-size: 54px !important;
+}
+.caption p {
+  margin-top: 15px !important;
+}
+.carousel-caption {
+  text-align: left !important;
+}
+
+.person-info {
+  margin-top: 50px !important;
+}
+.person-info h4 {
+  margin-bottom: 22px !important;
+  font-size: 42px;
+}
+.person-info span {
+  font-size: 14px !important;
+}
+.person-info p {
+  margin-top: 18px !important;
+}
+.carousel-indicators .active {
+  background-color: #f4ea0b !important;
+}
+.list2 {
+  list-style: none;
+  margin-left: -40px;
+}
+.list2 li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.list2 li i {
+  background: #9dafbd;
+  color: #fff;
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.list2 li i:hover {
+  background: #286ea6;
+}
+@media (max-width: 992px) {
+  .caption h3,
+  .caption p,
+  .bg {
+    display: none !important;
+  }
+  .team-info {
+    text-align: center !important;
+  }
+  .person-info h4 {
+    font-size: 26px !important;
+  }
+  .person-info p {
+    font-size: 14px !important;
+  }
+  .person-info span {
+    font-size: 12px !important;
+  }
+  .team-info img {
+    border-radius: 50%;
+    width: 300px !important;
+    height: 278px !important;
+
+    margin-bottom: -26px;
+  }
+}
